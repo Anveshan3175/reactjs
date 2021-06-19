@@ -1,10 +1,10 @@
-import React from 'react';
+import React,{useState,useEffect} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import UseEffect_demo1 from './UseEffect_demo1';
 
 ReactDOM.render(
-<App />,
+<UseEffect_demo1 />,
   document.getElementById('root')
 );
 
