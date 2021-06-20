@@ -1,10 +1,10 @@
 import React,{useState,useEffect} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import UseEffect_demo1 from './UseEffect_demo1';
+import UseEffect_demo2 from './UseEffect_demo4';
 
 ReactDOM.render(
-<UseEffect_demo1 />,
+<UseEffect_demo2 />,
   document.getElementById('root')
 );
 
