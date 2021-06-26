@@ -1,10 +1,11 @@
 import React,{useState,useEffect} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import UseEffect_demo2 from './CallbackDemo2';
+//import UseEffect_demo2 from './CallbackDemo2';
+import Promise_Demo2 from './promises/Promise_Demo3';
 
 ReactDOM.render(
-<UseEffect_demo2 />,
+<Promise_Demo2 />,
   document.getElementById('root')
 );
 
