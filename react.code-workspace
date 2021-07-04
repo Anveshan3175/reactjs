@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "react_i18next_starter"
 		}
 	],
 	"settings": {}
