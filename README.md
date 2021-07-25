@@ -29,7 +29,8 @@ To pull a project from GIT
 
 Inside the project directory, run npm install to generate a node_modules folder.
 
-
+-----------------------------------------------------------------------------
+Charts
 > npm install react-chartjs-2
 
 > npm install Chart
