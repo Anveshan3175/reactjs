@@ -1,3 +1,18 @@
+GIT commands
+git pull origin main --allow-unrelated-histories
+git init
+git status
+git add dojo-blog
+git commit -m "new project started"
+git push -u origin main
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
