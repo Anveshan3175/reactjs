@@ -7,8 +7,8 @@ GIT commands <br />
 >> git push -u origin main <br />
 
 <br />
-react commands
->> >npx create-react-app dojo-blog  
+react commands          <br />
+>> >npx create-react-app dojo-blog      <br />
 
 
 
