@@ -8,7 +8,7 @@ GIT commands <br />
 
 <br />
 react commands          <br />
->> >npx create-react-app dojo-blog      <br />
+>> npx create-react-app dojo-blog      <br />
 
 
 
