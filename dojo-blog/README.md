@@ -10,7 +10,8 @@ GIT commands <br />
 react commands          <br />
 >> npx create-react-app dojo-blog      <br />
 >> npm run start          <br />
->> npm install            <br/>   will install all dependencies defined in package.json
+>> npm install              will install all dependencies defined in package.json <br/> 
+>> npm view react version  <br />
 
 
 
