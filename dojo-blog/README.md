@@ -6,6 +6,10 @@ GIT commands <br />
 >> git commit -m "new project started" <br />
 >> git push -u origin main <br />
 
+<br />
+react commands
+>> >npx create-react-app dojo-blog  
+
 
 
 
