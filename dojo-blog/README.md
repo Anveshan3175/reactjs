@@ -1,10 +1,10 @@
 GIT commands
-> git pull origin main --allow-unrelated-histories
-> git init
-> git status
-> git add dojo-blog
-> git commit -m "new project started"
-> git push -u origin main
+>> git pull origin main --allow-unrelated-histories
+>> git init
+>> git status
+>> git add dojo-blog
+>> git commit -m "new project started"
+>> git push -u origin main
 
 
 
