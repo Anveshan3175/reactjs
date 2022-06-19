@@ -10,4 +10,7 @@
         and the browser with its actual DOM that needs to be updated. 
         
         
- This split exists because you can also use React with other target environments. A very popular and well-known alternative to the DOM (i.e., to the browser) would be React Native, which allows developers to build native mobile apps with help of React. With React Native, you also include the react package into your project, but in place of react-dom, you would use the react-native package. In this book, "React" refers to both the react package and the "bridge" packages (like react-dom).
+ > This split exists because you can also use React with other target environments. A very popular and well-known alternative to the DOM 
+   (i.e., to the browser) would be React Native, which allows developers to build native mobile apps with help of React. 
+    With React Native, you also include the react package into your project, but in place of react-dom, you would use the react-native package. 
+    In this book, "React" refers to both the react package and the "bridge" packages (like react-dom).
