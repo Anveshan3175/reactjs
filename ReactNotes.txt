@@ -1,1 +1,10 @@
-Test
+ React (the library) splits its core logic across two main packages:
+ > The main react package
+    ->  Need for React features like JSX or state
+    ->  It's this package that creates this virtual DOM 
+    ->  Derives the current UI state.
+ > The react-dom package
+    ->  To manipulate the DOM with React
+    ->  It's the react-dom package that will produce the actual DOM
+    ->  The  react-dom/client part of that package, acts as a "translation bridge" between your React code, the internally generated virtual DOM,
+        and the browser with its actual DOM that needs to be updated. 
