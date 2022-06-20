@@ -34,3 +34,6 @@
        In react, You make interactive UIs by changing the STATE of the component and React takes care of updating the DOM according to it.
        In react the DOM is declarative. This means we never interact with DOM, the UI is updated when we change the state.
        In declarative programming, you describe the program/UI/picture and someone else React/Browser/OS implements it.
+       
+    -> Imperative - you instruct a machine what to do step by step. Example: assembly language.
+       Declarative - you instruct a machine what you want to get and it supposes to figure it how to do it. Example: SQL.
