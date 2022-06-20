@@ -21,3 +21,16 @@
    This functionality is called "routing"
    [ It is important to understand that URL changes are handled in such a way that new page is not rendered. The same SINGLE page (index.jsp)
      is updated with contents of new URL ]
+     
+ > Declarative programming is like describing the picture, where imperative programming is the instruction for painting that picture.
+   -> SQL query - SELECT * FROM Employees   
+      Here we are defining we need every Employees detail not how to get the Employees. we aren't caring about any complex data structure the database 
+      is using to store the data.
+      
+   -> CSS is a nice example of declarative programming, In CSS we are actually defining how the element should look like and the browser takes care of 
+      implementing that for you.
+      
+   -> Declarative programming in React
+       In react, You make interactive UIs by changing the STATE of the component and React takes care of updating the DOM according to it.
+       In react the DOM is declarative. This means we never interact with DOM, the UI is updated when we change the state.
+       In declarative programming, you describe the program/UI/picture and someone else React/Browser/OS implements it.
