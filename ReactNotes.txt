@@ -38,6 +38,6 @@
        
     -> Imperative - you instruct a machine what to do step by step. Example: assembly language.
        Declarative - you instruct a machine what you want to get and it supposes to figure it how to do it. Example: SQL.
-       
+  +++++++++++++++++++++++++++++++++     
   -> Web application is designed for interaction with end users. Website basically contains static content. Web applications are websites with functionality 
      and interactive elements.
