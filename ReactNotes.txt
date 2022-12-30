@@ -42,3 +42,15 @@
   +++++++++++++++++++++++++++++++++     
   -> Web application is designed for interaction with end users. Website basically contains static content. Web applications are websites with functionality 
      and interactive elements.
+     
+  -> Client side rendering (CSR)
+     -> The browser executes and renders the html, which is in java script . 
+     -> If you see page source, you don't see any code .
+     -> It is slow rendering at first
+     -> create-react-app is example
+     ->  search engines will not detect sites with CSR since all code is rendered at client side. Search engines browse server side 
+     
+  -> Server side rendering (SSR)
+     -> The server itself will send the html code and browser renders that 
+     -> If you see page source, you see any code .
+  
